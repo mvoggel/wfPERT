@@ -4,6 +4,6 @@
 
 
 
-Running inside VS Code editor:  
+How I run it inside VS Code editor terminal:  
 /usr/local/bin/python3 /Users/matthewvoggel/Desktop/testing.py
 
