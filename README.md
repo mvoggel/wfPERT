@@ -9,7 +9,7 @@ How I run it inside VS Code editor terminal:
 
 Future Enhancements: 
 - Recurring updates to data in real-time (security)
-  - Possibly look at[ this example]([url](https://github.com/Workfront/workfront-api-examples-python/tree/master)) for WF API calls?  
+  - Possibly look at [this example](https://github.com/Workfront/workfront-api-examples-python/tree/master) for WF API calls?  
 - Task-level analysis
 - Post-analysis: print-out to new sheet within the excel once its ran
 - Outlier handling (if over 50 days (PI length), default to 50 bus. days for calculation)
