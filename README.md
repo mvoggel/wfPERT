@@ -5,7 +5,7 @@
 
 
 How I run it inside VS Code editor terminal:  
-/usr/local/bin/python3 /Users/matthewvoggel/Desktop/testing.py
+/usr/local/bin/python3 /Users/myusername/Desktop/testing.py
 
 Future Enhancements: 
 - Recurring updates to data in real-time (security)
