@@ -83,12 +83,12 @@ def print_results(duration_stats, hours_stats, expected_time_hours, expected_tim
     print(f"95% Confidence Stat - Hours: {expected_time_hours + hours_95_confidence_stat}")
 
 # Main function
-def main():
+def main(df):
     # Path to Excel file on desktop
-    file_path = "/Users/matthewvoggel/Desktop/Pert Test.xlsx"  # Update "YourUsername" with your actual username
+    #file_path = "/Users/matthewvoggel/Desktop/Pert Test.xlsx"  # Update "YourUsername" with your actual username
 
     # Read Excel file from desktop
-    df = read_excel_file(file_path)
+    #df = read_excel_file(file_path)
 
     # Get user input for filtering criteria
     filter_criteria = {
